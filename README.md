@@ -1,2 +1,2 @@
 # Summer-Olympics-Data-Analysis
-In this we are going to analyse the data of summer olympics.
+This repository is about analysing the data of summer olympics.
